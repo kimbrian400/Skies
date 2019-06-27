@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1096055316459",
+    "firebase_url": "https://skies-30b49.firebaseio.com",
+    "project_id": "skies-30b49",
+    "storage_bucket": "skies-30b49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096055316459:android:5ed92ce965e85cab",
+        "android_client_info": {
+          "package_name": "com.kimbrian.skies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096055316459-padc73bm9qosfsn81oaend631n7gi2op.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kimbrian.skies",
+            "certificate_hash": "77d1565e214de64e42de1ffd90353a5e61f190f1"
+          }
+        },
+        {
+          "client_id": "1096055316459-h7frdsfku81j8unmvi43lmrvec00nmsv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPo_cLhtUDDUPMQHLO7gSfyRq3J9UJ1F8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096055316459-h7frdsfku81j8unmvi43lmrvec00nmsv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

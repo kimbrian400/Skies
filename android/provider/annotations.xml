@@ -1,0 +1,5 @@
+<root>
+    <item name='android.provider.ContactsContract'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>
